@@ -7,45 +7,45 @@
 <div align="center">  
 <h2 align="center">Технологии:</h2>
 <h3 align="center"> Языки программирования: <br><br>
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/ts.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/c++.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/java.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/ts.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/c++.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/java.svg">
 </h3>
 
 <h3 align="center"> Приложения: <br><br>
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/android.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/flutter.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/qt.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/android.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/flutter.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/qt.svg">
 </h3>
 
 <h3 align="center"> Клиентская часть: <br><br>
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/react.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/vue.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/pug.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/sass.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/material.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/vaadin.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/react.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/vue.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/pug.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/sass.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/material.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/vaadin.svg">
 </h3>
 
 <h3 align="center"> Серверная часть: <br><br>
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/nest.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/spring.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/psql.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/cassandra.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/mongo.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/nest.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/spring.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/psql.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/cassandra.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/mongo.svg">
 </h3>
 
 <h3 align="center"> Инструменты: <br><br>
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/maven.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/docker.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/git.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/gulp.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/maven.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/docker.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/git.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/gulp.svg">
 </h3>
 
 <h3 align="center"> Внешние сервисы: <br><br>
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/minio.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/openai.svg">
-<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/icos/jira.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/minio.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/openai.svg">
+<img src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/jira.svg">
 </h3>
 </div>
 </td>
