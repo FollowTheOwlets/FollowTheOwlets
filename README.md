@@ -7,45 +7,45 @@
 <div align="center">  
 <h2 align="center">Технологии:</h2>
 <h3 align="center"> Языки программирования: <br><br>
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/ts.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/c++.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/java.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/ts.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/c++.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/java.svg">
 </h3>
 
 <h3 align="center"> Приложения: <br><br>
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/android.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/flutter.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/qt.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/android.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/flutter.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/qt.svg">
 </h3>
 
 <h3 align="center"> Клиентская часть: <br><br>
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/react.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/vue.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/pug.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/sass.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/material.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/vaadin.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/react.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/vue.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/pug.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/sass.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/material.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/vaadin.svg">
 </h3>
 
 <h3 align="center"> Серверная часть: <br><br>
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/nest.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/spring.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/psql.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/cassandra.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/mongo.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/nest.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/spring.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/psql.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/cassandra.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/mongo.svg">
 </h3>
 
 <h3 align="center"> Инструменты: <br><br>
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/maven.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/docker.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/git.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/gulp.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/maven.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/docker.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/git.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/gulp.svg">
 </h3>
 
 <h3 align="center"> Внешние сервисы: <br><br>
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/minio.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/openai.svg">
-<img width=20 height=20 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/jira.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/minio.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/openai.svg">
+<img width=30 height=30 src="https://github.com/FollowTheOwlets/FollowTheOwlets/blob/main/icos/jira.svg">
 </h3>
 </div>
 </td>
